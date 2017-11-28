@@ -1,2 +1,3 @@
-# simple-compiler
-A simple implementation of compiler phases in Java.
+# Hash Map Project
+
+By Omar Galal
